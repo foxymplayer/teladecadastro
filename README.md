@@ -3,6 +3,7 @@
 * [Intuito](#intuito) 
 * [Funções](#%EF%B8%8Ffun%C3%A7%C3%B5es) 
 * [Ultima data alterada](#ultima-data-alterada) 
+* [Criador do site](#criador-do-site)
 
 ## 💬Intuito
 
