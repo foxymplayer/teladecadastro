@@ -1,7 +1,7 @@
 # 📂Indice
 
 * [Intuito](#intuito) 
-* [Funções](#fun%C3%A7%C3%B5es) 
+* [Funções](#%EF%B8%8Ffun%C3%A7%C3%B5es) 
 * [Ultima data alterada](#ultima-data-alterada) 
 
 # 💬Intuito
