@@ -22,3 +22,25 @@ Ele possui caixas de texto para colocar seus dados e o botão de finalizar cadas
 
 * Gustavo Henrique <br>
  Meu [Git Hub](https://github.com/foxymplayer)
+
+ ## imgs do app
+
+ * gif das barras de escrita de nome, data de nascimento e senha:
+
+ ![image](gif/nome%2Cdataesenha.gif)
+
+ *  gif das barras de confirmar senha, e-mail e cpf:
+
+ ![image](gif/confsenha%2Cemailecpg.gif)
+
+ * gif das barras de cep, endereço, numero de tel e complementos de endereço:
+
+ ![image](gif/cepnumcom.gif)
+
+ * gif das barras de bairro, cidade e estado :
+
+ ![image](gif/baicidest.gif)
+
+ * finalização de cadastro:
+
+ ![image](gif/finalizi.gif)
