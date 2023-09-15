@@ -43,4 +43,4 @@ Ele possui caixas de texto para colocar seus dados e o botão de finalizar cadas
 
  * finalização de cadastro:
 
- ![image](gif/finalizi.gif)
+ <img src="gif/finalizi.gif" width="25%">
