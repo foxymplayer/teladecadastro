@@ -5,6 +5,7 @@
 * [Sobre a Criação](#%EF%B8%8Fsobre-a-cria%C3%A7%C3%A3o)
 * [Ultima data alterada](#ultima-data-alterada) 
 * [Criador do site](#criador-do-site)
+* [Fontes ultiliadas](#tecnologias-ultilizadas)
 
 ## 💬Intuito
 
@@ -57,4 +58,3 @@ Ultilizei [css](https://developer.mozilla.org/pt-BR/docs/Web/CSS) para estilizar
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Google]()
