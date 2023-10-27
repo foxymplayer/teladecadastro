@@ -8,81 +8,79 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='cadastro.css'>
     <script src='cadastro.js'></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 
 <body id="body">
     <h1 id="cadastro">Cadastro</h1>
     <form>
+        <h3>informaçãoes</h3>
         <p>
-            <label for="nome">nome</label>
+            <label for="nome">Nome</label>
             <br>
             <input id="nome" placeholder="insira seu nome">
         </p>
-        <p>
-            <label for="data">data</label>
+       <p>
+            <label for="data">Data</label>
             <br>
-            <input id="data" placeholder="insira data de nascimento">
+            <input id="data" placeholder="insira data de nascimento" type="date">
         </p>
         <p>
-            <label for="senha">senha</label>    
+            <label for="senha">Senha</label>    
             <br>
             <input id="senha" name="senha" placeholder="crie uma senha" type="password">
         </p>    
         <p>
-            <label for="confirmar">confirmar</label>
+            <label for="confirmar">Confirmar</label>
             <br>
             <input id="confirmar" type="password" placeholder="confirme sua senha">
         </p>
         <p>
-            <label for="email">email</label>
+            <label for="email">Email</label>
             <br>
-            <input id="email" type="email" placeholder="insira seu email">
+            <input id="email" type="email" placeholder="insira seu email" >
         </p>
-        <p>    
-            <label for="cpf">cpf</label>
-            <br>
-            <input id="cpf" placeholder="insira seu CPF">
-        </p>
-        <p>
-            <label for="cep">cep</label>
-            <br>
-            <input id="cep" placeholder="insira seu CEP">
-        </p>
-        <p>
-            <label for="endereco">endereço</label>   
-            <br>
-            <input id="endereco" placeholder="insira seu endereço">
-        </p>
-        <p>
-            <label for="numero">numero</label>    
-            <br>
-            <input id="numero" type="tel" placeholder="insira seu numero de celular">
-        </p>
-        <p>
-            <label for="complemento">conplemento</label>    
-            <br>
-            <input id="conplemento" placeholder="complemento">
-        </p>
-        <p>
-            <label for="bairro">bairro</label>
-            <br>
-            <input id="bairro" placeholder="insira seu bairro">
-        </p>
-        <p>
-            <label for="cidade">cidade</label>    
-            <br>
-            <input id="cidade" placeholder="insira o nome da sua cidade">
-        </p>
-        <p>
-            <label for="estado">cep</label>    
-            <br>
-            <input id="estado" placeholder="insira seu estado">
-        </p>    
-        <p>
-            <button onclick="verificar()">finalizar cadastro</button>
-        </p>
-    </form>
-    <!--o c significa cadastro-->
+         <hr>
+         
+         <h2>Informaçãoes de Endereço</h2>
+         <form action=""></form>
+
+
+
+         
+         <form class="row g-3">
+            <div class="col-md-4">
+                <label for="inputZip" class="form-label">CEP</label>
+                <input type="text"  id="cep" placeholder="00000-000">
+           </div>
+            <div class="col-4">
+              <label for="inputAddress" class="form-label">Endereço</label>
+              <input type="text"  id="rua" placeholder="Joaquim Nabuco">
+            </div>
+            <div class="col-4">
+              <label for="inputAddress" class="form-label">Numero</label>
+              <input type="text" id="numero" placeholder="N°0">
+            </div>
+            <div class="col-4">
+              <label for="inputAddress2" class="form-label">Bairro</label>
+              <input type="text"  id="bairro" >
+            </div>
+            <div class="col-md-4">
+              <label for="inputCity" class="form-label">Cidade</label>
+              <input type="text"  id="cidade">
+            </div>
+            <div class="col-md-4">
+              <label for="inputState" class="form-label">Estado</label>
+              <input id="estado" >
+                
+            </div>
+            <div class="col-">
+              <button type="submit" >Entrar</button>
+
+            </div>
+          </form>
+          <script type="text/javascript" src="./controller.js"></script>
+
 
 </body>
 
