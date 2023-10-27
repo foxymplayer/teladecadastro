@@ -13,10 +13,12 @@ esse tela foi criado no intuito de aprender a mecher com alguns codigos (foi uma
 
 O site tem a função de uma tela de cadastro de um site mas ele ainda não é funcional.
 
-Ele possui caixas de texto para colocar seus dados e o botão de finalizar cadastro que como eu disse ainda não te leva alugar nenhum  
+Ele possui caixas de texto para colocar seus dados e o botão de finalizar cadastro que como eu disse ainda não te leva alugar nenhum, e tambem a parte que foi adicionada recentemente que é sobre informação de endereço
+
+## 🏗️Sobre a criação:
 
 ## 📅Ultima data alterada
-12/09/2023
+27/10/2023
 
 ## Criador do site
 
@@ -44,3 +46,4 @@ Ele possui caixas de texto para colocar seus dados e o botão de finalizar cadas
  * finalização de cadastro:
 
  <img src="gif/finalizi.gif" width="25%">
+
